@@ -3,6 +3,8 @@
 **Marie Sklodowska-Curie Fellow**  
 Bio-Inspired Robotics Lab, University of Cambridge  |  [LinkedIn](https://www.linkedin.com/in/chapa-sirithunge/)  |  [Google Scholar](https://scholar.google.com/citations?user=72CpRjoAAAAJ&hl=en)  |  [GitHub](https://github.com/yourusername)  |  [Email](mailto:csh66@cam.ac.uk)
 
+  <img src="images/me3.jpg" alt="Profile Photo" width="650" style="margin-left: 15px;"/>
+
 ---
 
 ## About Me
@@ -52,9 +54,22 @@ I am using multi-agent systems (MAS), information theory and machine learning to
 ## News 
 
 - **Talk on robotics**: Excited to share that gave a talk titled "Navigating the Physical World: The Essential Role of Robots" at  the **pudding seminar** at Newnham College, Cambridge on the 11th of **October**. [Details](https://newn.cam.ac.uk/newnham-news/how-earthworms-and-plants-inspire-scientists-creating-robots)
+
+    <img src="images/puddingtalk.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+
 - **Robotics Workshop**:  I conducted the "Enhancing Women's Participation in Robotics" workshop and showcased robots with my team at the GLOBALWIIN 2024 Conference on the 3rd of **October** 2024. I'm proud to share that this marks our second event since founding the Women-in-Robotics Support Network for female roboticists.
+
+    <img src="images/london.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+
 - **Award during postdoc appreciation week**: It was fascinating to be selected as a winner of the "Heroines of Science" award. This recognition is an incredible opportunity to share my journey through life and science, and I hope to inspire the next generation of young minds. [Find more](https://www.postdocacademy.cam.ac.uk/news/heroines-science-winners)
+
+    <img src="images/heroine.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+
 - **Robotics Workshop**: I conducted the "Women-in-Robotics" workshop at the AgriForwards CDT Conference 2024 on October 22nd, attracting over 25 participants, including male and female engineers and academic staff. It was fascinating to see recent statistics showing that men support this approach more than ever before in history.
+
+    <img src="images/uea.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+
+
 - **Women-in-robotics**: With the growing number of female researchers and staff at the University of Cambridge, I am delighted to announce that we have established the Women-in-Robotics Support Network, and I am honored to lead the team. If you're interested in our activities or curious to support, sign up [here](https://forms.office.com/e/aTcDGvujNu)
 - **Live Morning Show Interview on Sirasa TV (Sinhalese)** [Watch on Youtube](https://www.youtube.com/watch?v=3APExJYP98Q&t=621s&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)
 - **Taking part in policy event**: It was an amazing opportunity to learn the intersection between Science and policy at EuroScience Open Forum 2024 – MSCA Satellite Event. This was held in Katowice, Poland from June 10-11, 2024, this event brought together the MSCA research community to discuss the European research landscape. Key topics included the emerging needs for future research, integrating the non-academic sector in research programs, careers at the intersection of science and policy, greening research practices, and the use of AI in research. 
