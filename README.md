@@ -87,7 +87,8 @@ I love building robots! Here are some designs I developed for robots, human stud
 
    <img src="images/cohort3.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
   
-- **Live Morning Show Interview on Sirasa TV (Sinhalese)**: This interview was aimed at aspiring researchers and general public. During the interview I shared my life story, career as a scientist, my approach for research and the importance of asking fundamental questions.  [Watch on Youtube](https://www.youtube.com/watch?v=3APExJYP98Q&t=621s&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)
+- **Live Morning Show Interview on Sirasa TV (Sinhalese)**: This interview was aimed at aspiring researchers and general public. During the interview I shared my life story, career as a scientist, my approach for research and the importance of asking fundamental questions.
+[Watch on Youtube](https://www.youtube.com/watch?v=3APExJYP98Q&t=621s&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)
 
      <img src="images/tv.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
