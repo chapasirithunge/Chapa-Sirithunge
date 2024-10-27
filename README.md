@@ -1,4 +1,4 @@
-# Chapa-Sirithunge
+# Chapa Sirithunge
 
 **Marie Sklodowska-Curie Fellow**  
 Bio-Inspired Robotics Lab, University of Cambridge  |  [LinkedIn](https://www.linkedin.com/in/chapa-sirithunge/)  |  [Google Scholar](https://scholar.google.com/citations?user=72CpRjoAAAAJ&hl=en)  |  [GitHub](https://github.com/yourusername)  |  [Email](mailto:csh66@cam.ac.uk)
@@ -32,13 +32,7 @@ Robopatient is a medical robotic simulator which investigates how human particip
 ### Soft manipulation
 The exceptional dexterity, adaptability, and sensory feedback of human and primate hands serve as a gold standard for developing soft robotic hands, inspiring designs that aim to replicate nuanced movements, grip versatility, and tactile precision for complex tasks.
 
-<div align="center">
-  <video width="560" height="315" controls>
-    <source src="images/wearable.mp4" type="video/mp4">Your browser does not support the video tag.
-  </video>
-</div>
-
-[Video](images/wearable.mp4)
+[Video](images/wearable.gif)
 
 ### Simulation work
 I am using multi-agent systems (MAS), information theory and machine learning to simulate context-aware models in complex environments.
