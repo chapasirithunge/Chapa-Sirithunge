@@ -109,6 +109,11 @@ I love building robots! Here are some designs I developed for robots, human stud
 
   - **Future Intelligence Talk Series**: Together with my colleagues, I organise this online talk series to enhance the visibility of excellent early career researchers and disseminate state-of-the-art research work in future intelligence to enthusiasts. [Find next speaker here](https://fitalk.github.io/)  | [Listen to previous talks](https://www.youtube.com/channel/UCpq_uwlsTB7fzf3CV0ctGpQ)
 
+  
+- **Newspaper article**: I enjoyed literature, calligraphy and writing from my childhood. I wrote my first newspaper article to Vidusara, the weekly Science magazine in Sri Lanka, on "Robotics for the changing world". This was written in Sinhalese and published in 2017 while I was in my 1st year as a PhD candidate.
+
+  <img src="images/vidusara.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+
 ---
 
 ## Contact
