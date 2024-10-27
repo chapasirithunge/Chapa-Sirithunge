@@ -33,8 +33,18 @@ Robopatient is a medical robotic simulator which investigates how human particip
   </video>
 </div>
 
+[Video](images/robopatient.mp4)
+
 ### Soft manipulation
 The exceptional dexterity, adaptability, and sensory feedback of human and primate hands serve as a gold standard for developing soft robotic hands, inspiring designs that aim to replicate nuanced movements, grip versatility, and tactile precision for complex tasks.
+
+<div align="center">
+  <video width="560" height="315" controls>
+    <source src="images/wearable.mp4" type="video/mp4">Your browser does not support the video tag.
+  </video>
+</div>
+
+[Video](images/wearable.mp4)
 
 ### Simulation work
 I am using multi-agent systems (MAS), information theory and machine learning to simulate context-aware models in complex environments.
