@@ -93,7 +93,7 @@ I love building robots! Here are some designs I developed for robots, human stud
 
 - **Celebrating anniversary**: It was a wonderful and memorable celebration marking Prof. Fumiya Iida's 10th anniversary at the University of Cambridge, complete with cake and great company!
 
-  <img src="images/cake.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+  <img src="images/cake.JPG" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
 - **Future Intelligence Talk Series**: Together with my colleagues, I organise this online talk series to enhance the visibility of excellent early career researchers and disseminate state-of-the-art research work in future intelligence to enthusiasts. [Find next speaker here](https://fitalk.github.io/)  | [Listen to previous talks](https://www.youtube.com/channel/UCpq_uwlsTB7fzf3CV0ctGpQ)
   
