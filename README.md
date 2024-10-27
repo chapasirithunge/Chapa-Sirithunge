@@ -27,12 +27,12 @@ I am a **postdoctoral researcher** specialising in **robotics** with a passion f
 ### Robopatient
 Robopatient is a medical robotic simulator which investigates how human participants use haptic exploration behaviours to detect abnormalities in a soft tissue given palpation force constraints. Research around this platform focuses on  training medical students to perform physical examinations on patients under constraints imposed by pain expressions conditioned by different gender and culture backgrounds. Robopatient is currently capable of generating "pain" based on pain expressions such as facial expressions and pain sound based on palpation during diagnosis. I am using this robotic platform to study the embodied generation of pain expressions.
 
-[Video](images/robopatient.gif)
+![Video](images/robopatient.gif)
 
 ### Soft manipulation
 The exceptional dexterity, adaptability, and sensory feedback of human and primate hands serve as a gold standard for developing soft robotic hands, inspiring designs that aim to replicate nuanced movements, grip versatility, and tactile precision for complex tasks.
 
-[Video](images/wearable.gif)
+![Video](images/wearable.gif)
 
 ### Simulation work
 I am using multi-agent systems (MAS), information theory and machine learning to simulate context-aware models in complex environments.
