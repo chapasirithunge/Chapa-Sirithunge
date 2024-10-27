@@ -59,6 +59,7 @@ I love building robots! Here are some designs I developed for robots, human stud
   Examines how robots can develop situation awareness to anticipate human actions and intentions in Human-Robot Interaction (HRI). It focuses on enabling robots to assess context dynamically, enhancing proactive assistance and decision-making based on environmental cues and user behaviors.  [Link to publication](https://ieeexplore.ieee.org/abstract/document/8967821)
   
 - **Check out the full set of publications here**: [Google Scholar](https://scholar.google.com/citations?user=72CpRjoAAAAJ&hl=en)
+  
 ---
 
 ## News 
