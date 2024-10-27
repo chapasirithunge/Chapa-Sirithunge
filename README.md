@@ -97,11 +97,11 @@ I love building robots! Here are some designs I developed for robots, human stud
 
    <img src="images/cohort3.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
   
-- **Live Morning Show Interview on Sirasa TV (Sinhalese)** [Watch on Youtube](https://www.youtube.com/watch?v=3APExJYP98Q&t=621s&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)
+- **Live Morning Show Interview on Sirasa TV (Sinhalese)**: This interview was aimed at aspiring researchers and general public. During the interview I shared my life story, career as a scientist, my approach for research and the importance of asking fundamental questions.  [Watch on Youtube](https://www.youtube.com/watch?v=3APExJYP98Q&t=621s&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)
 
      <img src="images/tv.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
-- **Taking part in policy event**: It was an amazing opportunity to learn the intersection between Science and policy at EuroScience Open Forum 2024 – MSCA Satellite Event. This was held in Katowice, Poland from June 10-11, 2024, this event brought together the MSCA research community to discuss the European research landscape. Key topics included the emerging needs for future research, integrating the non-academic sector in research programs, careers at the intersection of science and policy, greening research practices, and the use of AI in research.
+- **Taking part in policy event**: It was an amazing opportunity to learn the intersection between Science and policy at EuroScience Open Forum 2024 – MSCA Satellite Event. This was held in Katowice, Poland from June 10-11, 2024, this event brought together the MSCA research community to discuss the European research landscape. 
 
 - **Future Intelligence Talk Series**: Together with my colleagues, I organise this online talk series to enhance the visibility of excellent early career researchers and disseminate state-of-the-art research work in future intelligence to enthusiasts. [Find next speaker here](https://fitalk.github.io/)  | [Listen to previous talks](https://www.youtube.com/channel/UCpq_uwlsTB7fzf3CV0ctGpQ)
   
