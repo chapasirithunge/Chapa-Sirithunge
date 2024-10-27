@@ -13,7 +13,7 @@ I am a **postdoctoral researcher** specialising in **robotics** with a passion f
 
 ---
 
-## Research Interests / Areas of Expertise
+## Research Interests
 
 - **Embodied agents**: Robot design directly influences embodied agents by shaping their physical interactions, sensory processing, and adaptive behaviors, ultimately impacting their ability to learn from and respond to their environment effectively.
 - **Human-centered systems**: To create human-centered robots, designers should integrate sensory capabilities and adaptive mechanisms that prioritize interpreting human cues, understanding environmental context, and responding with behaviors aligned with natural human interaction patterns.
