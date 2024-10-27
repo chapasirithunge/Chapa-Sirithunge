@@ -92,24 +92,28 @@ I love building robots! Here are some designs I developed for robots, human stud
 
 
 - **Women-in-robotics**: With the growing number of female researchers and staff at the University of Cambridge, I am delighted to announce that we have established the Women-in-Robotics Support Network, and I am honored to lead the team. If you're interested in our activities or curious to support, sign up [here](https://forms.office.com/e/aTcDGvujNu)
-- ** Lecture in Technical Training** I gave an introductory talk on Soft Robotics for the new colleagues joing Future Roads program under Automation & Robotics theme for MSCA Cohort 3 Fellows and Industry partners.
+  
+- **Lecture in Technical Training**: I gave an introductory talk on Soft Robotics for the new colleagues joing Future Roads program under Automation & Robotics theme for MSCA Cohort 3 Fellows and Industry partners.
 
    <img src="images/cohort3.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
-
   
 - **Live Morning Show Interview on Sirasa TV (Sinhalese)** [Watch on Youtube](https://www.youtube.com/watch?v=3APExJYP98Q&t=621s&pp=ygUQY2hhcGEgc2lyaXRodW5nZQ%3D%3D)
 
      <img src="images/tv.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
-- **Taking part in policy event**: It was an amazing opportunity to learn the intersection between Science and policy at EuroScience Open Forum 2024 – MSCA Satellite Event. This was held in Katowice, Poland from June 10-11, 2024, this event brought together the MSCA research community to discuss the European research landscape. Key topics included the emerging needs for future research, integrating the non-academic sector in research programs, careers at the intersection of science and policy, greening research practices, and the use of AI in research. 
+- **Taking part in policy event**: It was an amazing opportunity to learn the intersection between Science and policy at EuroScience Open Forum 2024 – MSCA Satellite Event. This was held in Katowice, Poland from June 10-11, 2024, this event brought together the MSCA research community to discuss the European research landscape. Key topics included the emerging needs for future research, integrating the non-academic sector in research programs, careers at the intersection of science and policy, greening research practices, and the use of AI in research.
+  
 - **Science fair**: It was an incredible experience from the recent "Science is Wonderful" Science Fair organized by the Marie Curie Fund-European Union, held at Egg-Brussels. I had the fantastic opportunity to introduce young minds to the cutting-edge world of robotics through my booth, "RoboPilot Adventures". [Youtube](https://www.youtube.com/watch?v=8qk-LaSWLrU&ab_channel=BranchEducation)
 
   <img src="images/brussels.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+
+  - **Future Intelligence Talk Series**: Together with my colleagues, I organise this online talk series to enhance the visibility of excellent early career researchers and disseminate state-of-the-art research work in future intelligence to enthusiasts. [Find next speaker here](https://fitalk.github.io/)  | [Listen to previous talks](https://www.youtube.com/channel/UCpq_uwlsTB7fzf3CV0ctGpQ)
 
 ---
 
 ## Contact
 
-Feel free to reach out!  
+If you're interested in my work, curious to learn more, or open to future collaboration, I'd love to hear from you!
+
 **Email**: [csh66@cam.ac.uk](mailto:csh66@cam.ac.uk)  
 **LinkedIn**: [Chapa Sirithunge](https://www.linkedin.com/in/chapa-sirithunge/) 
