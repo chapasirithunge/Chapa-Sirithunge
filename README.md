@@ -74,7 +74,7 @@ I love building robots! Here are some designs I developed for robots, human stud
 
 ## News 
 
-- **Talk on robotics**: Excited to share that gave a talk titled "Navigating the Physical World: The Essential Role of Robots" at  the **pudding seminar** at Newnham College, Cambridge on the 11th of **October**. [Details](https://newn.cam.ac.uk/newnham-news/how-earthworms-and-plants-inspire-scientists-creating-robots)
+- **Talk on robotics**: Excited to share that gave a talk titled "Navigating the Physical World: The Essential Role of Robots" at  the kick off **pudding seminar** of Michaelmas term at Newnham College, Cambridge on the 11th of **October**. [Details](https://newn.cam.ac.uk/newnham-news/how-earthworms-and-plants-inspire-scientists-creating-robots)
 
     <img src="images/puddingtalk.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
