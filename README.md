@@ -113,7 +113,7 @@ I love building robots! Here are some designs I developed for robots, human stud
 
 ## Contact
 
-If you're interested in my work, curious to learn more, or open to future collaboration, I'd love to hear from you!
+I’m passionate about advancing robotics through innovative research, impactful projects, and engaging outreach. If any of these topics resonate with you—whether you’re interested in collaborating, learning more about my work, or simply discussing the future of robotics—I’d love to connect. Please feel free to reach out!
 
 **Email**: [csh66@cam.ac.uk](mailto:csh66@cam.ac.uk)  
 **LinkedIn**: [Chapa Sirithunge](https://www.linkedin.com/in/chapa-sirithunge/) 
