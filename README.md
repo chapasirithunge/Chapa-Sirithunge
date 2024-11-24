@@ -5,12 +5,12 @@ Bio-Inspired Robotics Lab, University of Cambridge  |  [LinkedIn](https://www.li
 
   <img src="images/me3.jpg" alt="Profile Photo" width="650" style="margin-left: 15px;"/>
 
-1. [About Me](#about-me)
-2. [Research Interests](#research-interests)
-3. [Projects](#projects)
-4. [Publications](#publications)
-5. [News](#news)
-6. [Contact](#contact)
+[About Me](#about-me) ⬩ 
+[Research Interests](#research-interests) ⬩ 
+[Projects](#projects) ⬩ 
+[Publications](#publications) ⬩ 
+[News](#news) ⬩ 
+[Contact](#contact) 
 
 ---
 
