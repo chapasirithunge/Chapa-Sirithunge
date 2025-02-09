@@ -77,9 +77,6 @@ I love building robots! Here are some designs I developed for robots, human stud
 - **Presented at Digital Roads of the Future Annual Review 2024**: Presented a poster on my research on "Multi-Agent Systems on Machine Safety in Complex Environments". The event was held at Cambridge Union Society on the 13th November. The event hosted all the PIs, academic supervisors, industry partners, research fellows of the Digital Roads of Future program and potential investors. [Details](https://www.linkedin.com/posts/digital-roads-of-the-future-drf_msca-digitalroads-innovation-activity-7262870274646134786-lS8x?utm_source=share&utm_medium=member_desktop)
 
     <img src="images/DRF24.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
-- **Presented at Digital Roads of the Future Annual Review 2024**: Presented a poster on my research on "Multi-Agent Systems on Machine Safety in Complex Environments". The event was held at Cambridge Union Society on the 13th November. The event hosted all the PIs, academic supervisors, industry partners, research fellows of the Digital Roads of Future program and potential investors. [Details](https://www.linkedin.com/posts/digital-roads-of-the-future-drf_msca-digitalroads-innovation-activity-7262870274646134786-lS8x?utm_source=share&utm_medium=member_desktop)
-
-    <img src="images/DRF24.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
 - **Talk on robotics**: Excited to share that gave a talk titled "Navigating the Physical World: The Essential Role of Robots" at  the kick off **pudding seminar** of Michaelmas term at Newnham College, Cambridge on the 11th of **October**. [Details](https://newn.cam.ac.uk/newnham-news/how-earthworms-and-plants-inspire-scientists-creating-robots)
 
