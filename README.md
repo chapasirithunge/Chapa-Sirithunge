@@ -53,7 +53,7 @@ I love building robots! Here are some designs I developed for robots, human stud
 
 ---
 
-## Publications
+## Selecetd Publications
 
 - **Effect of Material Viscosity on Tactile Compliance Discrimination** - *BioRob*, 2024 (Nominated for best paper award)
   Explores how varying viscosity levels in materials influence the ability of tactile sensors to discern compliance, or softness, during physical interaction. It emphasizes the role of material properties in enhancing robotic tactile perception, which is critical for fine-tuned, adaptive handling in tasks requiring sensitivity to texture and pliability.
