@@ -48,8 +48,8 @@ I am using multi-agent systems (MAS), information theory and machine learning to
 I love building robots! Here are some designs I developed for robots, human studies and exhibitions during the last two years.
 
  <img src="images/robots.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
- <img src="images/Softleg.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
- <img src="images/robopatient_1.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+ <img src="images/Softleg.JPG" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+ <img src="images/robopatient_1.JPG" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
 ---
 
