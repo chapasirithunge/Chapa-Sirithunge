@@ -70,6 +70,11 @@ I love building robots! Here are some designs I developed for robots, human stud
 ---
 
 ## News 
+- **Co-chairing Embodied Intelligence online conference 2025**: This year marks the 5th time Prof. Fumiya Iida with the Bio-Inspired Robotics Lab is organising the online conference for discussing the past, present and future of embodied intelligence research. The conference will be held online 2-4 April 2025. Full program and registration can be found [here](embodied-intelligence.org)
+  
+- **Presented at Digital Roads of the Future Annual Review 2024**: Presented a poster on my research on "Multi-Agent Systems on Machine Safety in Complex Environments". The event was held at Cambridge Union Society on the 13th November. The event hosted all the PIs, academic supervisors, industry partners, research fellows of the Digital Roads of Future program and potential investors. [Details](https://www.linkedin.com/posts/digital-roads-of-the-future-drf_msca-digitalroads-innovation-activity-7262870274646134786-lS8x?utm_source=share&utm_medium=member_desktop)
+
+    <img src="images/DRF24.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 - **Presented at Digital Roads of the Future Annual Review 2024**: Presented a poster on my research on "Multi-Agent Systems on Machine Safety in Complex Environments". The event was held at Cambridge Union Society on the 13th November. The event hosted all the PIs, academic supervisors, industry partners, research fellows of the Digital Roads of Future program and potential investors. [Details](https://www.linkedin.com/posts/digital-roads-of-the-future-drf_msca-digitalroads-innovation-activity-7262870274646134786-lS8x?utm_source=share&utm_medium=member_desktop)
 
     <img src="images/DRF24.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
