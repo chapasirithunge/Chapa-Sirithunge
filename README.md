@@ -72,6 +72,9 @@ I love building robots! Here are some designs I developed for robots, human stud
 ---
 
 ## News 
+- **Robotics and Embodied Intelligence Workshop**: I organised the robotics and embodied intelligence workshop with the sponsorship of the Centre for Human-Inspired AI (CHIA) Cambrigde. This is the first sponsored event from Cambridge Women-in-Robotics. Full program can be found [here](https://www.chia.cam.ac.uk/events/women-in-robotics)
+  <img src="images/WIR1.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+  
 - **Co-chairing Embodied Intelligence online conference 2025**: This year marks the 5th time Prof. Fumiya Iida with the Bio-Inspired Robotics Lab is organising the online conference for discussing the past, present and future of embodied intelligence research. The conference will be held online 2-4 April 2025. Full program and registration can be found [here](embodied-intelligence.org)
   <img src="images/flyerEI.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
