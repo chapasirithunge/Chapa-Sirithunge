@@ -71,6 +71,10 @@ I love building robots! Here are some designs I developed for robots, human stud
 ---
 
 ## News 
+- **Teaching in Cambridge**: This marks my third year teaching at the University of Cambridge. So far, I have delivered lectures on Soft Robotics, Human-Robot Interaction, and Machine Learning for Robotic Control. My teaching journey began during my second year as a PhD candidate at the University of Moratuwa. The experience gained, combined with the outcomes of my PhD, led to my appointment as a lecturer in Mechatronics at Sri Lanka Technological Campus, just eight months after my defense in December 2020. Through this journey, I have gained valuable insights into teaching methodologies, from preparing lecture materials to effectively engaging with students across a wide age range, from young undergraduates to professionals nearing retirement.
+
+    <img src="images/4m25.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+    
 - **Robotics and Embodied Intelligence Workshop**: I organised the robotics and embodied intelligence workshop with the sponsorship of the Centre for Human-Inspired AI (CHIA) Cambrigde. This is the first sponsored event from Cambridge Women-in-Robotics. Full program can be found [here](https://www.chia.cam.ac.uk/events/women-in-robotics)
 
     <img src="images/WIR1.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
