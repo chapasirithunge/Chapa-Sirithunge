@@ -76,7 +76,7 @@ I love building robots! Here are some designs I developed for robots, human stud
 
   <img src="images/springfestival.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
   <img src="images/bbc.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
-
+  
   - **Talk at CUED BioEngineering Conference 2025**: I had the opportunity to present my work on "Synthetic Generation of Pain Expressions for Robopatients" at the Cambridge University Bioengineering Conference on Friday, 21 March 2025, held at St. Catherine’s College. It was my first time speaking to an audience comprised entirely of biology experts—an exciting shift in perspective. I hope the talk sparked some interesting cross-disciplinary discussions. It's always fascinating to see how robots still evoke more fear than familiarity for some! More details [here](https://www.eng.cam.ac.uk/research/academic-divisions/mechanics-materials-and-design/events).
     
 - **Teaching in Cambridge**: This marks my third year teaching at the University of Cambridge. So far, I have delivered lectures on Soft Robotics, Human-Robot Interaction, and Machine Learning for Robotic Control. My teaching journey began during my second year as a PhD candidate at the University of Moratuwa. The experience gained, combined with the outcomes of my PhD, led to my appointment as a lecturer in Mechatronics at Sri Lanka Technological Campus, just eight months after my defense in December 2020. Through this journey, I have gained valuable insights into teaching methodologies, from preparing lecture materials to effectively engaging with students across a wide age range, from young undergraduates to professionals nearing retirement.
