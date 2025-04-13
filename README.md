@@ -74,8 +74,8 @@ I love building robots! Here are some designs I developed for robots, human stud
 
 - **Robots showcase at Cambridge festival**: Cambridge women in robotics organised robots showcase event with the Cambridge festival on the 29th of March. This event was intended for general public, especially kids from age 10 upwards. Had a fun afternoon on 27.02.2025 at BBC Radio Cambridgeshire promoting this event. coming up at the Cambridge Festival. I spoke to presenter Louise Holland about our motivations with this event, robot building and women in robotics Cambridge. 
 
-    <img src="images/springfestival.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
-      <img src="images/bbc.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+  <img src="images/springfestival.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
+  <img src="images/bbc.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
     
 - **Teaching in Cambridge**: This marks my third year teaching at the University of Cambridge. So far, I have delivered lectures on Soft Robotics, Human-Robot Interaction, and Machine Learning for Robotic Control. My teaching journey began during my second year as a PhD candidate at the University of Moratuwa. The experience gained, combined with the outcomes of my PhD, led to my appointment as a lecturer in Mechatronics at Sri Lanka Technological Campus, just eight months after my defense in December 2020. Through this journey, I have gained valuable insights into teaching methodologies, from preparing lecture materials to effectively engaging with students across a wide age range, from young undergraduates to professionals nearing retirement.
 
@@ -89,7 +89,6 @@ I love building robots! Here are some designs I developed for robots, human stud
 
   <img src="images/flyerEI.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
-  From 2024
 - **Presented at Digital Roads of the Future Annual Review 2024**: Presented a poster on my research on "Multi-Agent Systems on Machine Safety in Complex Environments". The event was held at Cambridge Union Society on the 13th November. The event hosted all the PIs, academic supervisors, industry partners, research fellows of the Digital Roads of Future program and potential investors. [Details](https://www.linkedin.com/posts/digital-roads-of-the-future-drf_msca-digitalroads-innovation-activity-7262870274646134786-lS8x?utm_source=share&utm_medium=member_desktop)
 
     <img src="images/DRF24.jpg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
