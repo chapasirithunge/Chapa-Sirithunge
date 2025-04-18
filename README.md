@@ -71,6 +71,9 @@ I love building robots! Here are some designs I developed for robots, human stud
 ---
 
 ## News 
+- **Fun evening playing chess with college members at Newnham College**: Cambridge women in robotics organised robots showcase event with the Cambridge festival on the 29th of March. This event was intended for general public, especially kids from age 10 upwards. Had a fun afternoon on 27.02.2025 at BBC Radio Cambridgeshire promoting this event. coming up at the Cambridge Festival. I spoke to presenter Louise Holland about our motivations with this event, robot building and women in robotics Cambridge. 
+
+  <img src="images/Chesspic2.jpeg" alt="Profile Photo" width="500" style="margin-left: 15px;"/>
 
 - **Robots showcase at Cambridge festival**: Cambridge women in robotics organised robots showcase event with the Cambridge festival on the 29th of March. This event was intended for general public, especially kids from age 10 upwards. Had a fun afternoon on 27.02.2025 at BBC Radio Cambridgeshire promoting this event. coming up at the Cambridge Festival. I spoke to presenter Louise Holland about our motivations with this event, robot building and women in robotics Cambridge. 
 
